@@ -1,14 +1,14 @@
 # LFCE Exam Objective Resources
 This is a list of exam objectives you will need to meet in order to pass the LFCE exam. Each objective has a list of links that points to online-resources that will let you understand and practice core concepts that you will be tested on. 
 
-* CentOS / RHEL 6.x
-* openSUSE 13.x
+* CentOS 7
+* openSUSE 13.1
 * Ubuntu 14.04
+
 
 * Network administration
   * Configure network services to start automatically at boot
      * [LFCE: Installing Network Services and Configuring Automatic Startup at Boot – Part 1](http://www.tecmint.com/installing-network-services-and-configuring-services-at-system-boot/)
-    * [How can I configure a service to run at startup](http://askubuntu.com/questions/9382/how-can-i-configure-a-service-to-run-at-startup)
   * Implement packet filtering
     * [How To Set Up a Firewall Using IPTables on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04)
   * Monitor network performance
@@ -19,6 +19,7 @@ This is a list of exam objectives you will need to meet in order to pass the LFC
     * [How to Turn a Linux Server into a Router to Handle Traffic Statically and Dynamically – Part 10](http://www.tecmint.com/setup-linux-as-router/)
     * [How to set static routes in Ubuntu Server?](http://askubuntu.com/questions/168033/how-to-set-static-routes-in-ubuntu-server)
   * Troubleshoot network issues
+    * [HOWTO - Basic Network Troubleshooting / Understanding](https://ubuntuforums.org/showthread.php?t=25557) 
 
 * Network filesystems and file services
   * Configure systems to mount standard, encrypted and network file systems on demand
@@ -49,6 +50,7 @@ This is a list of exam objectives you will need to meet in order to pass the LFC
 
 * HTTP services
   * Configure an http client to automatically use a proxy server
+    * [Setting up client browser for using the PAC file to get and use proxy configuration](https://tektab.com/2012/09/26/setting-up-automatic-proxy-configuration-pac-file/) 
   * Install and configure an Apache web server
     * [How To Set Up Apache Virtual Hosts on Ubuntu 14.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts)
   * Install and configure the Squid proxy server
@@ -62,9 +64,10 @@ This is a list of exam objectives you will need to meet in order to pass the LFC
 
 * Email services
   * Configure email aliases
+    * [Understanding /etc/aliases and what it does](https://unix.stackexchange.com/questions/65013/understanding-etc-aliases-and-what-it-does) 
   * Install and configure an IMAP and IMAPS service
     * [Setting Up Email Services (SMTP, Imap and Imaps) and Restricting Access to SMTP](http://www.tecmint.com/setting-up-email-services-smtp-and-restricting-access-to-smtp/)
   * Install and configure an smtp service
-    * [Setting Up Email Services (SMTP, Imap and Imaps) and Restricting Access to SMTP}(http://www.tecmint.com/setting-up-email-services-smtp-and-restricting-access-to-smtp/) 
+    *[Setting Up Email Services (SMTP, Imap and Imaps) and Restricting Access to SMTP](http://www.tecmint.com/setting-up-email-services-smtp-and-restricting-access-to-smtp/) 
   * Restrict access to an smtp server
-    * [Setting Up Email Services (SMTP, Imap and Imaps) and Restricting Access to SMTP}(http://www.tecmint.com/setting-up-email-services-smtp-and-restricting-access-to-smtp/) 
+    *[Setting Up Email Services (SMTP, Imap and Imaps) and Restricting Access to SMTP](http://www.tecmint.com/setting-up-email-services-smtp-and-restricting-access-to-smtp/) 

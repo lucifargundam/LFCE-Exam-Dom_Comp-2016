@@ -40,6 +40,7 @@ Where possible, resources will be provided specifically for the following distri
     * [How To Setup a Basic IP Tables Configuration on Centos 6](https://www.digitalocean.com/community/tutorials/how-to-setup-a-basic-ip-tables-configuration-on-centos-6)
     * [Iptables - openSUSE](https://en.opensuse.org/Iptables)
   * Install and configure SSL with Apache
+  * Configuring SSH-based remote access using public/private key pairs
 
 * Remote access
   * Configure the firewall with iptables

@@ -14,6 +14,7 @@ Where possible, resources will be provided specifically for the following distri
   * Implement packet filtering
     * [How To Set Up a Firewall Using IPTables on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-iptables-on-ubuntu-14-04)
   * Monitor network performance
+    *[18 commands to monitor network bandwidth on Linux server](http://www.binarytides.com/linux-commands-monitor-network/)
   * Produce and deliver reports on system use, outages and user requests
     * [How to configure sysstat/sar on Ubuntu/Debian](http://www.leonardoborda.com/blog/how-to-configure-sysstatsar-on-ubuntudebian/)
   * Route IP traffic statically and dynamically
@@ -40,7 +41,9 @@ Where possible, resources will be provided specifically for the following distri
     * [How To Setup a Basic IP Tables Configuration on Centos 6](https://www.digitalocean.com/community/tutorials/how-to-setup-a-basic-ip-tables-configuration-on-centos-6)
     * [Iptables - openSUSE](https://en.opensuse.org/Iptables)
   * Install and configure SSL with Apache
+    * [SSL Certificate Installation in Apache](https://www.digicert.com/ssl-certificate-installation-apache.htm)
   * Configuring SSH-based remote access using public/private key pairs
+    * [How To Configure SSH Key-Based Authentication on a Linux Server](https://www.digitalocean.com/community/tutorials/how-to-configure-ssh-key-based-authentication-on-a-linux-server)
 
 * Remote access
   * Configure the firewall with iptables
@@ -51,7 +54,9 @@ Where possible, resources will be provided specifically for the following distri
   * Install and configure an Apache web server
     * [How To Set Up Apache Virtual Hosts on Ubuntu 14.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts)
   * Install and configure the Squid proxy server
+    * [Squid - Proxy Server](https://help.ubuntu.com/lts/serverguide/squid.html)
   * Restrict access to a web page with Apache
+    * [Access Control](https://httpd.apache.org/docs/2.4/howto/access.html)
   * Restrict access to the Squid proxy server
   * Setting up name-based virtual web hosts
     * [How To Set Up Apache Virtual Hosts on Ubuntu 14.04 LTS](https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-ubuntu-14-04-lts)

@@ -68,6 +68,6 @@ This is a list of exam objectives you will need to meet in order to pass the LFC
   * Install and configure an IMAP and IMAPS service
     * [Setting Up Email Services (SMTP, Imap and Imaps) and Restricting Access to SMTP](http://www.tecmint.com/setting-up-email-services-smtp-and-restricting-access-to-smtp/)
   * Install and configure an smtp service
-    *[Setting Up Email Services (SMTP, Imap and Imaps) and Restricting Access to SMTP](http://www.tecmint.com/setting-up-email-services-smtp-and-restricting-access-to-smtp/) 
+    * [Setting Up Email Services (SMTP, Imap and Imaps) and Restricting Access to SMTP](http://www.tecmint.com/setting-up-email-services-smtp-and-restricting-access-to-smtp/) 
   * Restrict access to an smtp server
-    *[Setting Up Email Services (SMTP, Imap and Imaps) and Restricting Access to SMTP](http://www.tecmint.com/setting-up-email-services-smtp-and-restricting-access-to-smtp/) 
+    * [Setting Up Email Services (SMTP, Imap and Imaps) and Restricting Access to SMTP](http://www.tecmint.com/setting-up-email-services-smtp-and-restricting-access-to-smtp/) 
